@@ -1,0 +1,35 @@
+escreva "Olá Mundo!"
+escreva "Escreva o inteiro"
+
+var n1=leia_inteiro
+
+escreva "Escreva a string"
+
+var te1=leia_texto
+
+imprima "O inteiro é {n1}, enquanto o texto é {te1}"
+
+escreva "int1"
+var a=leia_inteiro
+escreva "int2"
+var b=leia_inteiro
+escreva "int3"
+var c=leia_inteiro
+escreva "int4"
+var d=leia_inteiro
+escreva "int5"
+var e=leia_inteiro
+escreva "int6"
+var f=leia_inteiro
+escreva "int7"
+var g=leia_inteiro
+escreva "int8"
+var h=leia_inteiro
+escreva "int0"
+
+var r1=a+b
+var r2=c-d
+var r3=e*f
+var r4=g/h
+
+escreva "A soma de {a} com {b} é {r1}, a subtração de {c} e {d} é {r2} , a multiplicação de {e} e {f} é {r3} e a divisão de {g} com {h} é {r4}"
