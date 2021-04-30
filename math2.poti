@@ -1,0 +1,16 @@
+escreva "escreva alguns valores!"
+
+
+var a=leia_inteiro
+var b=leia_inteiro
+var c=leia_inteiro
+var c1=leia_inteiro
+var d=leia_inteiro
+var d1=leia_inteiro
+var a2= a < b
+var b2= b > a
+var c2= c == c1
+var d2= d <> d1
+
+
+escreva "a operação a2 é {a2}; a operação b2 é {b2}; a operação c2 é {c2}; a operação d2 é {d2}"
