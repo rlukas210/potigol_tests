@@ -1,0 +1,9 @@
+var a1:=verdadeiro
+var a2:=falso
+#var a3:=verdadeiro
+#var a4:=falso
+ #   var b1:= a1 | e | a2
+  #  var b2:= a1 | ou | a2
+   # var b3:= a1 |
+
+   #Teste acima: combinações p/cada operador logico ( |e| , | ou | e | não | a || | não | b )

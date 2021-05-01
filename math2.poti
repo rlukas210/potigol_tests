@@ -7,8 +7,8 @@ var c=leia_inteiro
 var c1=leia_inteiro
 var d=leia_inteiro
 var d1=leia_inteiro
-var a2= a < b
-var b2= b > a
+var a2= a <= b
+var b2= b >= a
 var c2= c == c1
 var d2= d <> d1
 
